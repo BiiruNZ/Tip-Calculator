@@ -34,17 +34,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		E9B358FC1DF0D3060020C509 /* Tipsy.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tipsy.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9B358FC1DF0D3060020C509 /* TipTipTip.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TipTipTip.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9B358FF1DF0D3060020C509 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E9B359011DF0D3060020C509 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		E9B359041DF0D3060020C509 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		E9B359061DF0D3060020C509 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E9B359091DF0D3060020C509 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E9B3590B1DF0D3070020C509 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E9B359101DF0D3070020C509 /* TipsyTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipsyTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9B359101DF0D3070020C509 /* TipTipTipTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipTipTipTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9B359141DF0D3070020C509 /* TipsyTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsyTests.swift; sourceTree = "<group>"; };
 		E9B359161DF0D3070020C509 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E9B3591B1DF0D3070020C509 /* TipsyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipsyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E9B3591B1DF0D3070020C509 /* TipTipTipUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipTipTipUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E9B3591F1DF0D3070020C509 /* TipsyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipsyUITests.swift; sourceTree = "<group>"; };
 		E9B359211DF0D3070020C509 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -77,7 +77,7 @@
 		E9B358F31DF0D3060020C509 = {
 			isa = PBXGroup;
 			children = (
-				E9B358FE1DF0D3060020C509 /* Tipsy */,
+				E9B358FE1DF0D3060020C509 /* TipTipTip */,
 				E9B359131DF0D3070020C509 /* TipsyTests */,
 				E9B3591E1DF0D3070020C509 /* TipsyUITests */,
 				E9B358FD1DF0D3060020C509 /* Products */,
@@ -87,14 +87,14 @@
 		E9B358FD1DF0D3060020C509 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E9B358FC1DF0D3060020C509 /* Tipsy.app */,
-				E9B359101DF0D3070020C509 /* TipsyTests.xctest */,
-				E9B3591B1DF0D3070020C509 /* TipsyUITests.xctest */,
+				E9B358FC1DF0D3060020C509 /* TipTipTip.app */,
+				E9B359101DF0D3070020C509 /* TipTipTipTests.xctest */,
+				E9B3591B1DF0D3070020C509 /* TipTipTipUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		E9B358FE1DF0D3060020C509 /* Tipsy */ = {
+		E9B358FE1DF0D3060020C509 /* TipTipTip */ = {
 			isa = PBXGroup;
 			children = (
 				E9B358FF1DF0D3060020C509 /* AppDelegate.swift */,
@@ -104,6 +104,7 @@
 				E9B359081DF0D3060020C509 /* LaunchScreen.storyboard */,
 				E9B3590B1DF0D3070020C509 /* Info.plist */,
 			);
+			name = TipTipTip;
 			path = Tipsy;
 			sourceTree = "<group>";
 		};
@@ -128,9 +129,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		E9B358FB1DF0D3060020C509 /* Tipsy */ = {
+		E9B358FB1DF0D3060020C509 /* TipTipTip */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E9B359241DF0D3070020C509 /* Build configuration list for PBXNativeTarget "Tipsy" */;
+			buildConfigurationList = E9B359241DF0D3070020C509 /* Build configuration list for PBXNativeTarget "TipTipTip" */;
 			buildPhases = (
 				E9B358F81DF0D3060020C509 /* Sources */,
 				E9B358F91DF0D3060020C509 /* Frameworks */,
@@ -140,14 +141,14 @@
 			);
 			dependencies = (
 			);
-			name = Tipsy;
+			name = TipTipTip;
 			productName = Tipsy;
-			productReference = E9B358FC1DF0D3060020C509 /* Tipsy.app */;
+			productReference = E9B358FC1DF0D3060020C509 /* TipTipTip.app */;
 			productType = "com.apple.product-type.application";
 		};
-		E9B3590F1DF0D3070020C509 /* TipsyTests */ = {
+		E9B3590F1DF0D3070020C509 /* TipTipTipTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E9B359271DF0D3070020C509 /* Build configuration list for PBXNativeTarget "TipsyTests" */;
+			buildConfigurationList = E9B359271DF0D3070020C509 /* Build configuration list for PBXNativeTarget "TipTipTipTests" */;
 			buildPhases = (
 				E9B3590C1DF0D3070020C509 /* Sources */,
 				E9B3590D1DF0D3070020C509 /* Frameworks */,
@@ -158,14 +159,14 @@
 			dependencies = (
 				E9B359121DF0D3070020C509 /* PBXTargetDependency */,
 			);
-			name = TipsyTests;
+			name = TipTipTipTests;
 			productName = TipsyTests;
-			productReference = E9B359101DF0D3070020C509 /* TipsyTests.xctest */;
+			productReference = E9B359101DF0D3070020C509 /* TipTipTipTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		E9B3591A1DF0D3070020C509 /* TipsyUITests */ = {
+		E9B3591A1DF0D3070020C509 /* TipTipTipUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = E9B3592A1DF0D3070020C509 /* Build configuration list for PBXNativeTarget "TipsyUITests" */;
+			buildConfigurationList = E9B3592A1DF0D3070020C509 /* Build configuration list for PBXNativeTarget "TipTipTipUITests" */;
 			buildPhases = (
 				E9B359171DF0D3070020C509 /* Sources */,
 				E9B359181DF0D3070020C509 /* Frameworks */,
@@ -176,9 +177,9 @@
 			dependencies = (
 				E9B3591D1DF0D3070020C509 /* PBXTargetDependency */,
 			);
-			name = TipsyUITests;
+			name = TipTipTipUITests;
 			productName = TipsyUITests;
-			productReference = E9B3591B1DF0D3070020C509 /* TipsyUITests.xctest */;
+			productReference = E9B3591B1DF0D3070020C509 /* TipTipTipUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -188,7 +189,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0810;
-				LastUpgradeCheck = 0810;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = "Joe Zhang";
 				TargetAttributes = {
 					E9B358FB1DF0D3060020C509 = {
@@ -207,7 +208,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E9B358F71DF0D3060020C509 /* Build configuration list for PBXProject "Tipsy" */;
+			buildConfigurationList = E9B358F71DF0D3060020C509 /* Build configuration list for PBXProject "TipTipTip" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -220,9 +221,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				E9B358FB1DF0D3060020C509 /* Tipsy */,
-				E9B3590F1DF0D3070020C509 /* TipsyTests */,
-				E9B3591A1DF0D3070020C509 /* TipsyUITests */,
+				E9B358FB1DF0D3060020C509 /* TipTipTip */,
+				E9B3590F1DF0D3070020C509 /* TipTipTipTests */,
+				E9B3591A1DF0D3070020C509 /* TipTipTipUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -285,12 +286,12 @@
 /* Begin PBXTargetDependency section */
 		E9B359121DF0D3070020C509 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E9B358FB1DF0D3060020C509 /* Tipsy */;
+			target = E9B358FB1DF0D3060020C509 /* TipTipTip */;
 			targetProxy = E9B359111DF0D3070020C509 /* PBXContainerItemProxy */;
 		};
 		E9B3591D1DF0D3070020C509 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = E9B358FB1DF0D3060020C509 /* Tipsy */;
+			target = E9B358FB1DF0D3060020C509 /* TipTipTip */;
 			targetProxy = E9B3591C1DF0D3070020C509 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -333,6 +334,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -382,6 +384,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_SUSPICIOUS_MOVES = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
@@ -412,7 +415,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Tipsy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jz.Tipsy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jz.TipTipTip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -424,7 +427,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = Tipsy/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.jz.Tipsy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jz.TipTipTip;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -440,7 +443,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.jz.TipsyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tipsy.app/Tipsy";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TipTipTip.app/TipTipTip";
 			};
 			name = Debug;
 		};
@@ -454,7 +457,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = com.jz.TipsyTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Tipsy.app/Tipsy";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/TipTipTip.app/TipTipTip";
 			};
 			name = Release;
 		};
@@ -487,7 +490,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E9B358F71DF0D3060020C509 /* Build configuration list for PBXProject "Tipsy" */ = {
+		E9B358F71DF0D3060020C509 /* Build configuration list for PBXProject "TipTipTip" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9B359221DF0D3070020C509 /* Debug */,
@@ -496,29 +499,32 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		E9B359241DF0D3070020C509 /* Build configuration list for PBXNativeTarget "Tipsy" */ = {
+		E9B359241DF0D3070020C509 /* Build configuration list for PBXNativeTarget "TipTipTip" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9B359251DF0D3070020C509 /* Debug */,
 				E9B359261DF0D3070020C509 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		E9B359271DF0D3070020C509 /* Build configuration list for PBXNativeTarget "TipsyTests" */ = {
+		E9B359271DF0D3070020C509 /* Build configuration list for PBXNativeTarget "TipTipTipTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9B359281DF0D3070020C509 /* Debug */,
 				E9B359291DF0D3070020C509 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
-		E9B3592A1DF0D3070020C509 /* Build configuration list for PBXNativeTarget "TipsyUITests" */ = {
+		E9B3592A1DF0D3070020C509 /* Build configuration list for PBXNativeTarget "TipTipTipUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E9B3592B1DF0D3070020C509 /* Debug */,
 				E9B3592C1DF0D3070020C509 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

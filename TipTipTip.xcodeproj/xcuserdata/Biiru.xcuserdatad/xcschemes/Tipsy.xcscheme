@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0810"
+   LastUpgradeVersion = "0820"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E9B358FB1DF0D3060020C509"
-               BuildableName = "Tipsy.app"
-               BlueprintName = "Tipsy"
-               ReferencedContainer = "container:Tipsy.xcodeproj">
+               BuildableName = "TipTipTip.app"
+               BlueprintName = "TipTipTip"
+               ReferencedContainer = "container:TipTipTip.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E9B3590F1DF0D3070020C509"
-               BuildableName = "TipsyTests.xctest"
-               BlueprintName = "TipsyTests"
-               ReferencedContainer = "container:Tipsy.xcodeproj">
+               BuildableName = "TipTipTipTests.xctest"
+               BlueprintName = "TipTipTipTests"
+               ReferencedContainer = "container:TipTipTip.xcodeproj">
             </BuildableReference>
          </TestableReference>
          <TestableReference
@@ -43,9 +43,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "E9B3591A1DF0D3070020C509"
-               BuildableName = "TipsyUITests.xctest"
-               BlueprintName = "TipsyUITests"
-               ReferencedContainer = "container:Tipsy.xcodeproj">
+               BuildableName = "TipTipTipUITests.xctest"
+               BlueprintName = "TipTipTipUITests"
+               ReferencedContainer = "container:TipTipTip.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -53,9 +53,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9B358FB1DF0D3060020C509"
-            BuildableName = "Tipsy.app"
-            BlueprintName = "Tipsy"
-            ReferencedContainer = "container:Tipsy.xcodeproj">
+            BuildableName = "TipTipTip.app"
+            BlueprintName = "TipTipTip"
+            ReferencedContainer = "container:TipTipTip.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -76,9 +76,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9B358FB1DF0D3060020C509"
-            BuildableName = "Tipsy.app"
-            BlueprintName = "Tipsy"
-            ReferencedContainer = "container:Tipsy.xcodeproj">
+            BuildableName = "TipTipTip.app"
+            BlueprintName = "TipTipTip"
+            ReferencedContainer = "container:TipTipTip.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -95,9 +95,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "E9B358FB1DF0D3060020C509"
-            BuildableName = "Tipsy.app"
-            BlueprintName = "Tipsy"
-            ReferencedContainer = "container:Tipsy.xcodeproj">
+            BuildableName = "TipTipTip.app"
+            BlueprintName = "TipTipTip"
+            ReferencedContainer = "container:TipTipTip.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
