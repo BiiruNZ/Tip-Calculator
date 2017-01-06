@@ -36,8 +36,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
+I didn't have much time to explore around the additional functions but within my limited time I can't figure out how to set up the default value. I tried to make the app looks nice though :)
 ## License
 
     Copyright [yyyy] [name of copyright owner]
